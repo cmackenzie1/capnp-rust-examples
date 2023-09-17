@@ -1,5 +1,7 @@
 # Cap'N'Proto Rust Examples
 
+[![Rust](https://github.com/cmackenzie1/capnp-rust-examples/actions/workflows/rust.yml/badge.svg)](https://github.com/cmackenzie1/capnp-rust-examples/actions/workflows/rust.yml)
+
 This repository contains examples of using [Cap'N'Proto](https://capnproto.org/) in Rust.
 
 The `schemas` directory contains the Cap'N'Proto schemas used in the examples. They are written in the [Cap'N'Proto schema language](https://capnproto.org/language.html) and compiled into Rust code using the `capnpc` crate.
